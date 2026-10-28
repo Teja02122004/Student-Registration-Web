@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+  <course>
+    <code>IT101</code>
+    <name>B.Tech Information Technology</name>
+    <department>Engineering &amp; Technology</department>
+    <category>Undergraduate Engineering</category>
+    <duration>4 Years</duration>
+    <fee>85000</fee>
+    <feeFormatted>₹85,000 / year</feeFormatted>
+    <eligibility>10+2 with Physics, Chemistry &amp; Mathematics (Min. 60% marks)</eligibility>
+    <description>Comprehensive 4-year engineering curriculum focusing on enterprise software architecture, operating systems, cloud networks, database engineering, and modern full-stack development.</description>
+    <seats>120</seats>
+    <rating>4.9</rating>
+    <icon>Cpu</icon>
+    <badge>Most Popular</badge>
+    <syllabus>
+      <topic>Data Structures &amp; Algorithms in C++/Java</topic>
+      <topic>Database Management Systems (RDBMS &amp; NoSQL)</topic>
+      <topic>Computer Networks &amp; Network Security</topic>
+      <topic>Cloud Infrastructure &amp; Containerization</topic>
+      <topic>Full-Stack Web Engineering &amp; REST APIs</topic>
+      <topic>Final Year Industry Capstone Project</topic>
+    </syllabus>
+    <careerOpportunities>Software Development Engineer, Cloud Engineer, Systems Analyst, Backend Architect</careerOpportunities>
+  </course>
+
+  <course>
+    <code>BC102</code>
+    <name>Bachelor of Computer Applications</name>
+    <department>Computer Applications</department>
+    <category>Undergraduate Computing</category>
+    <duration>3 Years</duration>
+    <fee>60000</fee>
+    <feeFormatted>₹60,000 / year</feeFormatted>
+    <eligibility>10+2 in any stream with Mathematics or Computer Science (Min. 50% marks)</eligibility>
+    <description>Industry-oriented 3-year undergraduate degree empowering students with practical programming skills, web applications, mobile computing, and database management.</description>
+    <seats>90</seats>
+    <rating>4.8</rating>
+    <icon>Code</icon>
+    <badge>Fast Track Career</badge>
+    <syllabus>
+      <topic>Foundations of Programming with Python &amp; C</topic>
+      <topic>Object-Oriented Programming with Java</topic>
+      <topic>Web Application Development (HTML5, CSS3, JS)</topic>
+      <topic>Relational Database Design with MySQL</topic>
+      <topic>Mobile Application Development</topic>
+      <topic>Software Testing &amp; Quality Assurance</topic>
+    </syllabus>
+    <careerOpportunities>Web Developer, Junior Software Developer, Database Administrator, App Developer</careerOpportunities>
+  </course>
+
+  <course>
+    <code>CS103</code>
+    <name>B.Sc Computer Science</name>
+    <department>Science &amp; Computing</department>
+    <category>Undergraduate Science</category>
+    <duration>3 Years</duration>
+    <fee>50000</fee>
+    <feeFormatted>₹50,000 / year</feeFormatted>
+    <eligibility>10+2 with Mathematics / Computer Science (Min. 50% marks)</eligibility>
+    <description>Rigorous academic degree focusing on theoretical foundations of computing, algorithmic analysis, mathematics for computation, and system programming.</description>
+    <seats>80</seats>
+    <rating>4.7</rating>
+    <icon>Binary</icon>
+    <badge>Affordable &amp; Foundational</badge>
+    <syllabus>
+      <topic>Discrete Mathematics &amp; Graph Theory</topic>
+      <topic>Design &amp; Analysis of Algorithms</topic>
+      <topic>Computer System Architecture &amp; Assembly</topic>
+      <topic>Linux System Administration &amp; Shell Scripting</topic>
+      <topic>Numerical Methods &amp; Statistical Computing</topic>
+      <topic>Independent Research Seminar</topic>
+    </syllabus>
+    <careerOpportunities>Research Assistant, Data Analyst, Algorithm Engineer, Systems Programmer</careerOpportunities>
+  </course>
+
+  <course>
+    <code>MC104</code>
+    <name>Master of Computer Applications</name>
+    <department>Postgraduate Computing</department>
+    <category>Postgraduate Masters</category>
+    <duration>2 Years</duration>
+    <fee>75000</fee>
+    <feeFormatted>₹75,000 / year</feeFormatted>
+    <eligibility>BCA / B.Sc Computer Science / B.Tech or any Graduate with Mathematics (Min. 55% marks)</eligibility>
+    <description>Advanced postgraduate degree designed to prepare tech specialists for high-level software engineering, microservices, big data processing, and IT project leadership.</description>
+    <seats>60</seats>
+    <rating>4.9</rating>
+    <icon>Layers</icon>
+    <badge>High Placement Rate</badge>
+    <syllabus>
+      <topic>Advanced Algorithms &amp; High-Performance Computing</topic>
+      <topic>Distributed Systems &amp; Microservices Architecture</topic>
+      <topic>Enterprise Java / Node.js Backend Frameworks</topic>
+      <topic>Information Security &amp; Cryptography</topic>
+      <topic>Artificial Intelligence &amp; Neural Networks</topic>
+      <topic>Six-Month Corporate Internship &amp; Dissertation</topic>
+    </syllabus>
+    <careerOpportunities>Senior Software Engineer, Technical Lead, Solution Architect, Product Engineer</careerOpportunities>
+  </course>
+
+  <course>
+    <code>AI105</code>
+    <name>B.Tech Artificial Intelligence &amp; Data Science</name>
+    <department>Engineering &amp; Technology</department>
+    <category>Undergraduate Engineering</category>
+    <duration>4 Years</duration>
+    <fee>95000</fee>
+    <feeFormatted>₹95,000 / year</feeFormatted>
+    <eligibility>10+2 with Physics, Chemistry &amp; Mathematics (Min. 65% aggregate)</eligibility>
+    <description>Specialized engineering degree covering machine learning, deep neural networks, computer vision, natural language processing, and big data engineering pipelines.</description>
+    <seats>60</seats>
+    <rating>5.0</rating>
+    <icon>Brain</icon>
+    <badge>Next-Gen Tech</badge>
+    <syllabus>
+      <topic>Linear Algebra, Calculus &amp; Probability for AI</topic>
+      <topic>Supervised &amp; Unsupervised Machine Learning</topic>
+      <topic>Deep Learning with PyTorch &amp; TensorFlow</topic>
+      <topic>Computer Vision &amp; Generative Models</topic>
+      <topic>Natural Language Processing &amp; LLMs</topic>
+      <topic>Big Data Engineering (Spark, Hadoop, Kafka)</topic>
+    </syllabus>
+    <careerOpportunities>AI Engineer, Machine Learning Specialist, Data Scientist, MLOps Engineer</careerOpportunities>
+  </course>
+
+  <course>
+    <code>CY106</code>
+    <name>M.Sc Cybersecurity &amp; Digital Forensics</name>
+    <department>Postgraduate Computing</department>
+    <category>Postgraduate Masters</category>
+    <duration>2 Years</duration>
+    <fee>70000</fee>
+    <feeFormatted>₹70,000 / year</feeFormatted>
+    <eligibility>B.Tech / B.Sc in CS / IT / Electronics with min. 55% marks</eligibility>
+    <description>In-depth program in ethical hacking, network defense, security auditing, digital incident response, and cyber governance compliance.</description>
+    <seats>45</seats>
+    <rating>4.8</rating>
+    <icon>ShieldCheck</icon>
+    <badge>High Demand</badge>
+    <syllabus>
+      <topic>Network Security &amp; Cryptographic Protocols</topic>
+      <topic>Ethical Hacking &amp; Penetration Testing</topic>
+      <topic>Digital Forensics &amp; Malware Analysis</topic>
+      <topic>Security Operations Center (SOC) Management</topic>
+      <topic>Cloud Security &amp; Zero Trust Architecture</topic>
+      <topic>Cyber Laws &amp; ISO 27001 Compliance</topic>
+    </syllabus>
+    <careerOpportunities>Cybersecurity Analyst, Penetration Tester, Incident Responder, Information Security Officer</careerOpportunities>
+  </course>
+
+  <course>
+    <code>DS107</code>
+    <name>Professional Diploma in Full Stack Web</name>
+    <department>Vocational &amp; Professional</department>
+    <category>Diploma &amp; Certification</category>
+    <duration>1 Year</duration>
+    <fee>40000</fee>
+    <feeFormatted>₹40,000 total</feeFormatted>
+    <eligibility>Any 10+2 or Diploma holder with basic computer familiarity</eligibility>
+    <description>Intensive 1-year career accelerator covering modern front-end engineering, backend server architecture, SQL/NoSQL databases, and collaborative Git workflows.</description>
+    <seats>50</seats>
+    <rating>4.9</rating>
+    <icon>Globe</icon>
+    <badge>Job Ready</badge>
+    <syllabus>
+      <topic>HTML5 Semantic Markup, Modern CSS3 &amp; Tailwind</topic>
+      <topic>Modern JavaScript (ES6+), React &amp; TypeScript</topic>
+      <topic>Node.js, Express &amp; PHP 8 Backend Services</topic>
+      <topic>SQL Schema Design, Queries &amp; Data Security</topic>
+      <topic>CI/CD Deployment &amp; Cloud Hosting</topic>
+      <topic>Portfolio Building &amp; Mock Technical Interviews</topic>
+    </syllabus>
+    <careerOpportunities>Frontend Developer, Junior Full-Stack Engineer, UI Developer, Webmaster</careerOpportunities>
+  </course>
+
+  <course>
+    <code>MB108</code>
+    <name>MBA in Information Technology Management</name>
+    <department>Management Studies</department>
+    <category>Postgraduate Masters</category>
+    <duration>2 Years</duration>
+    <fee>120000</fee>
+    <feeFormatted>₹1,20,000 / year</feeFormatted>
+    <eligibility>Graduation in any discipline with minimum 50% marks</eligibility>
+    <description>Blends technology leadership with strategic business administration, IT governance, project lifecycle management, and enterprise technology procurement.</description>
+    <seats>60</seats>
+    <rating>4.8</rating>
+    <icon>Briefcase</icon>
+    <badge>Executive Track</badge>
+    <syllabus>
+      <topic>Strategic Management &amp; Tech Economics</topic>
+      <topic>IT Project Management &amp; Agile Methodologies</topic>
+      <topic>Enterprise Resource Planning (ERP) Systems</topic>
+      <topic>Data Analytics for Business Decision Making</topic>
+      <topic>Digital Transformation &amp; Innovation Leadership</topic>
+      <topic>Corporate IT Internship &amp; Strategic Thesis</topic>
+    </syllabus>
+    <careerOpportunities>IT Project Manager, Technology Consultant, Product Manager, Business Systems Analyst</careerOpportunities>
+  </course>
+</courses>

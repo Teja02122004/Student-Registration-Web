@@ -1,0 +1,6 @@
+{
+  "name": "StudentHub - Student Registration & Course Management",
+  "description": "Comprehensive student registration, secure authentication, XML-powered course catalogue, and student dashboard portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

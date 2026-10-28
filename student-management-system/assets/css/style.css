@@ -1,0 +1,180 @@
+/**
+ * Student Registration and Course Management System
+ * Custom Theme Stylesheet
+ * File: assets/css/style.css
+ */
+
+:root {
+    --primary-blue: #1e40af;
+    --royal-blue: #1e3a8a;
+    --navy-blue: #0f172a;
+    --accent-purple: #7c3aed;
+    --accent-indigo: #4f46e5;
+    --accent-cyan: #0284c7;
+    --body-bg: #f8fafc;
+    --card-bg: #ffffff;
+    --text-primary: #0f172a;
+    --text-secondary: #475569;
+    --border-color: #e2e8f0;
+}
+
+body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: var(--body-bg);
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6, .brand-text {
+    font-family: 'Outfit', 'Plus Jakarta Sans', sans-serif;
+    letter-spacing: -0.02em;
+}
+
+/* Navigation */
+.bg-royal-blue {
+    background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.brand-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    background: linear-gradient(135deg, #6366f1 0%, #a855f7 100%);
+    color: #ffffff;
+    border-radius: 10px;
+    font-size: 1.15rem;
+    box-shadow: 0 4px 12px rgba(99, 102, 241, 0.35);
+}
+
+.text-accent {
+    color: #38bdf8 !important;
+}
+
+.navbar .nav-link {
+    color: #cbd5e1;
+    font-weight: 500;
+    padding: 0.5rem 0.9rem;
+    border-radius: 0.5rem;
+    transition: all 0.2s ease;
+}
+
+.navbar .nav-link:hover, .navbar .nav-link.active {
+    color: #ffffff;
+    background: rgba(255, 255, 255, 0.08);
+}
+
+/* Buttons */
+.btn-gradient {
+    background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+    color: #ffffff;
+    border: none;
+    font-weight: 600;
+    transition: all 0.25s ease;
+}
+
+.btn-gradient:hover {
+    background: linear-gradient(135deg, #4338ca 0%, #6d28d9 100%);
+    color: #ffffff;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 14px rgba(79, 70, 229, 0.35);
+}
+
+.btn-accent {
+    background-color: #0284c7;
+    color: #ffffff;
+    border: none;
+    font-weight: 600;
+}
+
+.btn-accent:hover {
+    background-color: #0369a1;
+    color: #ffffff;
+}
+
+/* Hero Section */
+.hero-section {
+    background: radial-gradient(circle at 80% 20%, rgba(124, 58, 237, 0.12) 0%, transparent 50%),
+                radial-gradient(circle at 20% 80%, rgba(30, 64, 175, 0.12) 0%, transparent 50%),
+                #ffffff;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.badge-soft-primary {
+    background-color: #eff6ff;
+    color: #1d4ed8;
+    border: 1px solid #bfdbfe;
+    font-size: 0.85rem;
+    font-weight: 600;
+    border-radius: 9999px;
+    padding: 0.35rem 0.85rem;
+}
+
+/* Feature & Course Cards */
+.card-custom {
+    background-color: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 1rem;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card-hover:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 16px 30px -8px rgba(15, 23, 42, 0.08);
+}
+
+.card-icon-box {
+    width: 52px;
+    height: 52px;
+    border-radius: 14px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.icon-blue { background-color: #eff6ff; color: #2563eb; }
+.icon-purple { background-color: #f5f3ff; color: #7c3aed; }
+.icon-emerald { background-color: #ecfdf5; color: #059669; }
+.icon-amber { background-color: #fffbeb; color: #d97706; }
+.icon-rose { background-color: #fff1f2; color: #e11d48; }
+
+/* Numeric stats */
+.tabular-numbers {
+    font-variant-numeric: tabular-nums;
+}
+
+/* Footer */
+.bg-navy {
+    background-color: var(--navy-blue);
+}
+
+.footer-link {
+    color: #94a3b8;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.footer-link:hover {
+    color: #38bdf8;
+    text-decoration: underline;
+}
+
+/* Course Table */
+.table-courses {
+    border-radius: 0.75rem;
+    overflow: hidden;
+    border: 1px solid var(--border-color);
+}
+
+.table-courses thead {
+    background-color: #0f172a;
+    color: #ffffff;
+}
+
+.table-courses tbody tr:hover {
+    background-color: #f1f5f9;
+}
